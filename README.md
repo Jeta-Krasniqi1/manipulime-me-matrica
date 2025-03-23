@@ -1,7 +1,7 @@
 # manipulime-me-matrica
 Përshkrimi i Klasës Veprime_me_matrica
 Klasa Veprime_me_matrica përmban dy metoda statike për operacione me matrica: transpozimin dhe shumëzimin e tyre. Këto metoda ndihmojnë në manipulimin dhe përpunimin e matricave në një mënyrë efikase.
-Metodat e Klasës:
+Metodat e Klasës:                                                    
 
 1️⃣ matrica_e_transponuar(int[][] a)
 

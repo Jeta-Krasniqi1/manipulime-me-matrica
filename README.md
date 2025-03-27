@@ -6,7 +6,7 @@ Metodat e Klasës:
 1️⃣ matrica_e_transponuar(int[][] a)
 
 Kjo metodë merr një matricë si hyrje dhe kthen matricën e saj të transponuar.
-Transpozimi do të thotë që elementët e rreshtave kthehen në kolona dhe anasjelltas.
+Transpozimi do të thotë që elementët e rreshtave kthehen në kolona dhe anasjelltas.                 
 Për ta realizuar këtë, krijohet një matricë e re me dimensione të kundërta nga matrica hyrëse.
 
 2️⃣ matrica_e_shumezuar(int[][] a, int[][] b)

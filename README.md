@@ -11,7 +11,7 @@ Për ta realizuar këtë, krijohet një matricë e re me dimensione të kundërt
 
 2️⃣ matrica_e_shumezuar(int[][] a, int[][] b)
 
-Kjo metodë shumëzon dy matrica dhe kthen matricën e re të përftuar.
+Kjo metodë shumëzon dy matrica dhe kthen matricën e re të përftuar.                              
 Operacioni i shumëzimit të matricave bëhet sipas rregullit:
 Elementi në pozicionin (i, j) të matricës përfundimtare është shuma e produkteve të elementeve përkatëse nga rreshti i parë dhe kolona e dytë.
 Për shumëzimin të jetë i vlefshëm, numri i kolonave të a duhet të jetë i barabartë me numrin e rreshtave të b.
